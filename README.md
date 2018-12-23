@@ -12,3 +12,6 @@
 - Quando o navio é afundado, todas as máquinas devem ser avisadas que o navio do jogador foi afundado nas posições Z1, Z2, Z3.
 - O bastão não é temporizado.
 - Deve ter timeout na mensagem.
+
+
+![tokenring](token.gif?raw=true "tokenring")
